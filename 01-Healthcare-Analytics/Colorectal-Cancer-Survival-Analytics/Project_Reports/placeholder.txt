@@ -1,0 +1,1 @@
+This folder cotains Portfolio Report and SQL queries source file
